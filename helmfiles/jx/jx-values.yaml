@@ -30,7 +30,7 @@ jxRequirements:
     gitName: github
     gitServer: https://github.com
     provider: minikube
-    registry: 10.110.148.105
+    registry: 10.107.87.32
   environments:
   - key: dev
     owner: fpga-tom
