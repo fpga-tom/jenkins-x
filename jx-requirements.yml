@@ -22,7 +22,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: 192.168.49.2.nip.io
+    domain: 0d04-46-34-227-192.ngrok-free.app
     kind: ingress
     namespaceSubDomain: -jx.
     tls:
