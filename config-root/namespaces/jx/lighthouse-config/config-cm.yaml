@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - fpga-tom/jenkins-x
-      target_url: http://lighthouse-jx.192.168.49.2.nip.io/merge/status
+      target_url: http://lighthouse-jx.0d04-46-34-227-192.ngrok-free.app/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
